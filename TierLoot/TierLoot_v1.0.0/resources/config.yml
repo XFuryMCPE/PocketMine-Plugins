@@ -1,0 +1,23 @@
+#TierLoot plugin by XFuryMCPE
+#Add as many items as you want to the config. :)
+#chance - Example: 15 would give you a 1 in 15 chance of getting loot
+#item-max - Max items able to be gotten in a stack
+
+
+t1-chance: 15
+t1-item-max: 3
+t1-loot:
+ - 1
+ - 4
+
+t2-chance: 20
+t2-item-max: 5
+t2-loot:
+ - 10
+ - 11
+
+t3-chance: 50
+t3-item-max: 10
+t3-loot:
+ - 276
+ - 267

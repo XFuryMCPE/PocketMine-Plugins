@@ -1,0 +1,7 @@
+name: TierLoot
+description: "Find random loot underground"
+author: XFuryMCPE
+version: 1.0.0
+main: xfury\tl\Main
+api: 1.12.0
+website: http://shop.avengetech.net
